@@ -1,0 +1,35 @@
+{
+    "bundles": [
+        {
+            "name": "base-game",
+            "assets": [
+                {
+                    "alias": "redCandy",
+                    "src": "symbols/SRR_Symbol_Raspberry_01.png"
+                },
+                {
+                    "alias": "gameBg",
+                    "src": "backgrounds/game-bg.png"
+                }
+            ]
+        },
+        {
+            "name": "free-spins",
+            "assets": [
+                {
+                    "alias": "freeSpinBg",
+                    "src": "backgrounds/free-spin-bg.png"
+                }
+            ]
+        },
+        {
+            "name": "bonus-game",
+            "assets": [
+                {
+                    "alias": "bonusBg",
+                    "src": "backgrounds/bonus-bg.png"
+                }
+            ]
+        }
+    ]
+}
